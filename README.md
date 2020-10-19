@@ -1,6 +1,6 @@
 ## Crossword Solver
 
-For this assignment, you will create a crossword-solver program. You will enter a word at the keyboard with some letters missing, and the program works out all the possible words that would fit with the known letters and spaces. So for instance if you had an incomplete word in a crossword and you knew the first letter was 'f', you did not know the second or third letters, but knew the fourth was an 's' and the fifth was 't'. i.e. you are trying to find all words that would fit with `f??st` The solution would be
+For this assignment, you will create a crossword-solver program. You will enter a word at the keyboard with some letters missing, and the program works out all the possible words that would fit with the known letters and spaces. So for instance if you had an incomplete word in a crossword and you knew the first letter was 'f', you did not know the second or third letters, but knew the fourth was an 's' and the fifth was 't'. i.e. you are trying to find all words that would fit with `f??st` The solution would be  git
 ```
 faust
 feast
